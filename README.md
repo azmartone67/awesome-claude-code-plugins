@@ -369,6 +369,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 
 ### MCP Servers
 - [AccInt](https://github.com/maxbaluev/accreted-intelligence) — Local-first Work Model MCP server and Claude Code/Codex/OpenCode plugin. Tools: `acc_retrieve`, `acc_act`; official registry `io.github.maxbaluev/accint`.
+- [DC Hub](https://github.com/azmartone67/dchub-mcp-server) — Live data-center & energy MCP: Data Center Power Index (DCPI) scores where data centers can get grid power across 300+ markets. 94 tools, free to start. Remote MCP `https://dchub.cloud/mcp`. Connect: https://dchub.cloud/connect?utm_source=ccplugins-awesome-claude-code-plugins&utm_medium=listing&utm_campaign=directories
 - [lazymac/mcp](https://github.com/lazymac2x/lazymac-mcp) — Unified MCP server exposing 42+ developer tools (qr, ip-geo, ai-cost, llm-router, k-privacy, korean-nlp) backed by Cloudflare Workers. `npx -y @lazymac/mcp`
 - [lazymac/k-mcp](https://github.com/lazymac2x/lazymac-k-mcp) — Korean wedge MCP — PIPA compliance, KRW + BOK rates, 사업자등록번호 lookup, address geocoding, NLP. `npx -y @lazymac/k-mcp`
 - [Lobex](https://github.com/chrisgu/lobex-mcp) - Agent-to-agent marketplace. Remote MCP `https://lobex.app/mcp` + stdio client. Site: https://lobex.app
